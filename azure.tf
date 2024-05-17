@@ -1,6 +1,6 @@
 #Resource group
 data "azurerm_resource_group" "example" {
-  name     = "sa1_test_eic_ShivModi"
+  name     = "sa1_test_eic_VedantTrivedi"
 }
 #create app service plan
 resource "azurerm_app_service_plan" "example" {
